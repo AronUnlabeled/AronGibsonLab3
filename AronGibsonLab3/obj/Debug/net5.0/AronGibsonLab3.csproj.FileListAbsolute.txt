@@ -1,0 +1,16 @@
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\AronGibsonLab3.exe
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\AronGibsonLab3.deps.json
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\AronGibsonLab3.runtimeconfig.json
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\AronGibsonLab3.runtimeconfig.dev.json
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\AronGibsonLab3.dll
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\ref\AronGibsonLab3.dll
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\bin\Debug\net5.0\AronGibsonLab3.pdb
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.csproj.AssemblyReference.cache
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.AssemblyInfoInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.AssemblyInfo.cs
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.csproj.CoreCompileInputs.cache
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.dll
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\ref\AronGibsonLab3.dll
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.pdb
+C:\Users\aron\source\repos\AronGibsonLab3\AronGibsonLab3\obj\Debug\net5.0\AronGibsonLab3.genruntimeconfig.cache
