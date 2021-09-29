@@ -30,18 +30,13 @@ namespace AronGibsonLab3
                     if (num < 25)
                         Console.WriteLine($"{num} Even and less than 25");
                     else if (num < 60)
-                        Console.WriteLine($"{num} Even and between 25 and 60");
+                        Console.WriteLine($"Even");
                     else
-                        Console.WriteLine($"{num} Even and greater than 60");
+                        Console.WriteLine($"{num} Even");
                 }
                 else
                 {
-                    if (num < 25)
-                        Console.WriteLine($"{num} Odd and less than 25");
-                    else if (num < 61)
-                        Console.WriteLine($"{num} Odd and between 25 and 60");
-                    else
-                        Console.WriteLine($"{num} Odd and greater than 60");
+                        Console.WriteLine($"{num} Odd");
                 }
 
                 Console.WriteLine($"Do you want to keep going {name} ? y or n");
